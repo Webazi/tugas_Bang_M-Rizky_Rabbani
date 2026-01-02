@@ -1,6 +1,6 @@
 # tugas_Bang_M-Rizky_Rabbani
-<h1>Nama : Aji Adrian Aziz</h1>
-<h1>Prodi: Teknik Informatika</h1>
+<h2>Nama : Aji Adrian Aziz</h2>
+<h2>Prodi: Teknik Informatika</h2>
 <h2>Sejarah singkat github</h2>
 <p>
 
