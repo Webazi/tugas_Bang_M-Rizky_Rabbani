@@ -1,4 +1,4 @@
-# tugas_Bang_M-Rizky_Rabbani
+# tugas_Bang_M-Rifky-rahmadani
 <h2>Nama : Aji Adrian Aziz</h2>
 <h2>Prodi: Teknik Informatika</h2>
 <h2>Sejarah singkat github</h2>
